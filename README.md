@@ -1,7 +1,7 @@
 Hello and welcome!
 My name is Andy, and I am an aspiring analyst who loves uncovering data-driven insights and making informed business decisions.
 
-🔗 LinkedIn: https://www.linkedin.com/in/changhyuk-andy-byun/ 
+You can connect with me on LinkedIn: https://www.linkedin.com/in/changhyuk-andy-byun/ 
 
 <!--
 **cbyun11/cbyun11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
