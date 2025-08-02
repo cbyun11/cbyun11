@@ -1,7 +1,7 @@
 Hello and welcome!
-My name is Changhyuk, and I am an aspiring analyst who loves uncovering data-driven insights and making informed business decisions.
+My name is Changhyuk, and I am an aspiring marketing PhD student who loves uncovering data-driven insights and making informed marketing decisions.
 
-You can connect with me on LinkedIn: [https://www.linkedin.com/in/changhyuk-andy-byun/](https://www.linkedin.com/in/changhyuk-byun/) 
+You can connect with me on LinkedIn: [https://www.linkedin.com/in/changhyuk-byun/](https://www.linkedin.com/in/changhyuk-byun/) 
 
 <!--
 **cbyun11/cbyun11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
